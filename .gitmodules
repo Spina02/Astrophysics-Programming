@@ -1,0 +1,12 @@
+[submodule "exercises"]
+	path = exercises
+	url = https://github.com/Spina02/Astro-Lab.git
+[submodule "projects/particle-mesh"]
+	path = projects/particle-mesh
+	url = https://github.com/Spina02/particle-mesh.git
+[submodule "projects/1d-sph"]
+	path = projects/1d-sph
+	url = https://github.com/Spina02/1D-SPH.git
+[submodule "projects/solar-system"]
+	path = projects/solar-system
+	url = https://github.com/Spina02/solar-system.git
